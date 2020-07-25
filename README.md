@@ -44,3 +44,52 @@ Looking at the plots, what are some insights you can make? Do you see any correl
 further? What other questions do the insights lead you to ask?
 Now that you’ve asked questions, hopefully you’ve found some interesting insights. Is there a narrative or a way of presenting the 
 insights using text and plots that tells a compelling story? What are some other trends/relationships you think will make the story more complete?
+
+Statistical Data Analysis
+
+At this point, you’ve obtained the dataset for your capstone project, cleaned, and wrangled it into a form that's ready for analysis. It's now time to apply the inferential statistics techniques you’ve learned to explore the data.
+Based on your dataset, the questions that interest you, and the results of the visualization techniques that you used previously, you should choose the most relevant statistical inference techniques. You aren’t expected to demonstrate all of them. Your specific situation determines how much time it’ll take you to complete this project. Talk to your mentor to determine the most appropriate approach to take for your project. You may find yourself revisiting the analytical framework that you first used to develop your proposal questions. It’s fine to refine your questions more as you get deeper into your data and find interesting patterns and answers. Remember to stay in touch with your mentor to remain focused on the scope of your project
+Think of the following questions and apply them to your dataset:
+Are there variables that are particularly significant in terms of explaining the answer to your project question?
+Are there significant differences between subgroups in your data that may be relevant to your project aim?
+Are there strong correlations between pairs of independent variables or between an independent and a dependent variable?
+What are the most appropriate tests to use to analyze these relationships?
+
+Milestone Report
+
+Think of a milestone report as an interim report that you may be asked to share with your client to keep them updated on your findings. It’s also an opportunity for you to take stock of how far you’ve come, what you’ve found, and practice your data storytelling skills. Your report is similar to an early draft of the final capstone project 1 report.
+The milestone report compiles all the reports that you’ve been writing throughout the course. Hopefully, you’ve been keeping your findings organized and regularly documenting your findings. You should not need to do any new data analysis for this report.
+Steps:
+Write a capstone project 1 milestone report (Google Doc, 5-6 pages) and include the following:
+Problem statement: Why it’s a useful question to answer and for whom (source this from your proposal)
+Description of the dataset, how you obtained, cleaned, and wrangled it (source this from your data wrangling report)
+Initial findings from exploratory analysis (source this from your data story and inferential statistics reports)
+Summary of your findings
+Visuals and statistics to support those findings
+Update your presentation slides.
+Update your GitHub repository with the capstone project 1 code, milestone report, document, and slides.
+Use the link below to share your report with your mentor for feedback, and update as needed.
+Convert your report to .pdf and add it to your repository. Share it with your peer community.
+
+In Depth Analysis
+
+The techniques you’ll use in this project depend on your dataset so if you are unsure, ask your mentor to guide you on selecting the most appropriate methods.
+Because each student’s individual dataset and project needs determine which techniques are used, we’ve found that the amount of time a student spends on this section varies quite a bit. Don’t be surprised if you find yourself spending more or less than the estimated time. Stay in touch with your mentor to ensure that you’re on track and defining a reasonable scope of work.
+Write up your findings and use the link below to share your progress with your mentor.
+
+Final Project
+
+You’re now ready to finalize and complete your first capstone project! By this point, you should have a pretty clear idea of the main points that you’d like to make and the predictive models appropriate to your story. 
+There’s often no clear point at which you can say, “I’m done.” It’s likely that there are still questions and refinements to be made. This is a good time to discuss a stopping point for your first capstone project with your mentor. It’s a good idea to list the open questions and refinements as future projects or further work to be done. The goal is to get a good capstone project with sufficient breadth and depth to demonstrate your newly acquired skill set.
+Steps:
+Put together all of your project components and review them with your mentor. Your report should include:
+Code for the project
+Presentation slides deck (and an optional blog post if you want to really stand out)
+Consolidated report (Google Doc, 10-12 pages) based on summary reports from all your previous project submissions, including:
+Proposal with problem statement
+Data collection and wrangling summary
+Exploratory data analysis summary (visualization and inferential statistics)
+Results and In-depth analysis using machine learning
+Incorporate any revisions and feedback from your mentor.
+If you’d like, you may also write a blog post to submit with your capstone project report and presentation. 
+Submit your final capstone project 1 for evaluation to your mentor, and share with your peers.
