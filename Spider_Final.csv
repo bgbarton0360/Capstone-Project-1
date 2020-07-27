@@ -1,0 +1,411 @@
+File,Date,Rank,Comic-book_Title,Issue,Price,Publisher,Units_Sold,Writer,Rating,Movie_Playing
+1997-04.csv,1997-04,34,Amazing Spider-Man,424,1.95,Marvel,79143,Tom DeFalco,,0
+1997-05.csv,1997-05,20,Amazing Spider-Man,-1,1.95,Marvel,74425,Tom DeFalco,,0
+1997-06.csv,1997-06,21,Amazing Spider-Man,425,2.99,Marvel,79804,Tom DeFalco,,0
+1997-07.csv,1997-07,26,Amazing Spider-Man,426,1.99,Marvel,71808,Tom DeFalco,,0
+1997-08.csv,1997-08,25,Amazing Spider-Man,427,1.99,Marvel,72365,Tom DeFalco,,0
+1997-09.csv,1997-09,24,Amazing Spider-Man,428,1.99,Marvel,69905,Tom DeFalco,,0
+1997-10.csv,1997-10,25,Amazing Spider-Man,429,1.99,Marvel,69182,Tom DeFalco,,0
+1997-11.csv,1997-11,24,Amazing Spider-Man,430,1.99,Marvel,69278,Tom DeFalco,,0
+1997-12.csv,1997-12,26,Amazing Spider-Man,431,1.99,Marvel,66218,Tom DeFalco,,0
+1998-01.csv,1998-01,21,Amazing Spider-Man,432,1.99,Marvel,68175,Tom DeFalco,,0
+1998-02.csv,1998-02,20,Amazing Spider-Man,433,1.99,Marvel,63604,Tom DeFalco,,0
+1998-03.csv,1998-03,16,Amazing Spider-Man,434,1.99,Marvel,70493,Tom DeFalco,,0
+1998-04.csv,1998-04,18,Amazing Spider-Man,435,1.99,Marvel,70009,Tom DeFalco,,0
+1998-05.csv,1998-05,20,Amazing Spider-Man,436,1.99,Marvel,66041,Tom DeFalco,,0
+1998-06.csv,1998-06,19,Amazing Spider-Man,437,1.99,Marvel,66566,Tom DeFalco,,0
+1998-07.csv,1998-07,18,Amazing Spider-Man,438,1.99,Marvel,63690,Tom DeFalco,,0
+1998-07.csv,1998-07,19,Amazing Spider-Man,439,1.99,Marvel,63480,Tom DeFalco,,0
+1998-08.csv,1998-08,16,Amazing Spider-Man,440,1.99,Marvel,64497,John Byrne,,0
+1998-09.csv,1998-09,21,Amazing Spider-Man,441,1.99,Marvel,69053,John Byrne,,0
+1998-11.csv,1998-11,4,Amazing Spider-Man,1,2.99,Marvel,124903,Howard Mackie,,0
+1998-12.csv,1998-12,7,Amazing Spider-Man,2,1.99,Marvel,102477,Howard Mackie,,0
+1999-01.csv,1999-01,11,Amazing Spider-Man,3,1.99,Marvel,83891,Howard Mackie,,0
+1999-02.csv,1999-02,11,Amazing Spider-Man,4,1.99,Marvel,78781,Howard Mackie,,0
+1999-03.csv,1999-03,12,Amazing Spider-Man,5,1.99,Marvel,76829,Howard Mackie,,0
+1999-04.csv,1999-04,12,Amazing Spider-Man,6,1.99,Marvel,74475,Howard Mackie,,0
+1999-05.csv,1999-05,15,Amazing Spider-Man,7,1.99,Marvel,71580,Howard Mackie,,0
+1999-06.csv,1999-06,12,Amazing Spider-Man,8,1.99,Marvel,70033,Howard Mackie,,0
+1999-07.csv,1999-07,13,Amazing Spider-Man,9,1.99,Marvel,67264,Howard Mackie,,0
+1999-08.csv,1999-08,11,Amazing Spider-Man,10,1.99,Marvel,64060,Howard Mackie,,0
+1999-09.csv,1999-09,12,Amazing Spider-Man,11,1.99,Marvel,61135,Howard Mackie,,0
+1999-10.csv,1999-10,11,Amazing Spider-Man,12,2.99,Marvel,62018,Howard Mackie,,0
+1999-11.csv,1999-11,13,Amazing Spider-Man,13,1.99,Marvel,58883,Howard Mackie,,0
+1999-12.csv,1999-12,11,Amazing Spider-Man,14,1.99,Marvel,61917,Howard Mackie,,0
+2000-01.csv,2000-01,13,Amazing Spider-Man,15,1.99,Marvel,56413,Howard Mackie,,0
+2000-02.csv,2000-02,15,Amazing Spider-Man,16,1.99,Marvel,53222,Howard Mackie,,0
+2000-03.csv,2000-03,14,Amazing Spider-Man,17,1.99,Marvel,54097,Howard Mackie,,0
+2000-04.csv,2000-04,16,Amazing Spider-Man,18,2.25,Marvel,53218,Howard Mackie,,0
+2000-05.csv,2000-05,12,Amazing Spider-Man,19,2.25,Marvel,52995,Howard Mackie,,0
+2000-06.csv,2000-06,12,Amazing Spider-Man,20,2.99,Marvel,53515,Howard Mackie,,0
+2000-07.csv,2000-07,14,Amazing Spider-Man,21,2.25,Marvel,51903,Howard Mackie,,0
+2000-08.csv,2000-08,13,Amazing Spider-Man,22,2.25,Marvel,49891,Howard Mackie,,0
+2000-09.csv,2000-09,18,Amazing Spider-Man,23,2.25,Marvel,49291,Howard Mackie,,0
+2000-10.csv,2000-10,14,Amazing Spider-Man,24,2.25,Marvel,50183,Howard Mackie,,0
+2000-12.csv,2000-12,16,Amazing Spider-Man,26,2.25,Marvel,49548,Howard Mackie,,0
+2001-01.csv,2001-01,17,Amazing Spider-Man,27,2.25,Marvel,49190,Howard Mackie,,0
+2001-02.csv,2001-02,16,Amazing Spider-Man,28,2.25,Marvel,48559,Howard Mackie,,0
+2001-03.csv,2001-03,16,Amazing Spider-Man,29,2.25,Marvel,48804,Howard Mackie,,0
+2001-04.csv,2001-04,5,Amazing Spider-Man,30,2.25,Marvel,77314,J. Michael Straczynski,,0
+2001-05.csv,2001-05,8,Amazing Spider-Man,31,2.25,Marvel,73743,J. Michael Straczynski,,0
+2001-06.csv,2001-06,8,Amazing Spider-Man,32,2.25,Marvel,82329,J. Michael Straczynski,,0
+2001-07.csv,2001-07,7,Amazing Spider-Man,33,2.25,Marvel,89813,J. Michael Straczynski,,0
+2001-08.csv,2001-08,6,Amazing Spider-Man,34,2.25,Marvel,90497,J. Michael Straczynski,,0
+2001-09.csv,2001-09,6,Amazing Spider-Man,35,2.25,Marvel,89994,J. Michael Straczynski,,0
+2001-10.csv,2001-10,7,Amazing Spider-Man,36,2.25,Marvel,92765,J. Michael Straczynski,,0
+2001-11.csv,2001-11,5,Amazing Spider-Man,37,2.25,Marvel,93495,J. Michael Straczynski,,0
+2001-12.csv,2001-12,6,Amazing Spider-Man,38,2.25,Marvel,95296,J. Michael Straczynski,,0
+2002-01.csv,2002-01,8,Amazing Spider-Man,39,2.25,Marvel,97449,J. Michael Straczynski,,0
+2002-02.csv,2002-02,6,Amazing Spider-Man,40,2.25,Marvel,97298,J. Michael Straczynski,,0
+2002-03.csv,2002-03,5,Amazing Spider-Man,41,2.25,Marvel,99824,J. Michael Straczynski,,0
+2002-06.csv,2002-06,6,Amazing Spider-Man,42,2.25,Marvel,103530,J. Michael Straczynski,,1
+2002-07.csv,2002-07,6,Amazing Spider-Man,43,2.25,Marvel,105998,J. Michael Straczynski,,1
+2002-08.csv,2002-08,5,Amazing Spider-Man,44,2.25,Marvel,106824,J. Michael Straczynski,,1
+2002-09.csv,2002-09,4,Amazing Spider-Man,45,2.25,Marvel,105445,J. Michael Straczynski,,0
+2002-10.csv,2002-10,5,Amazing Spider-Man,46,2.25,Marvel,104835,J. Michael Straczynski,,0
+2002-11.csv,2002-11,5,Amazing Spider-Man,47,2.25,Marvel,102555,J. Michael Straczynski,,0
+2002-12.csv,2002-12,7,Amazing Spider-Man,48,2.25,Marvel,100700,J. Michael Straczynski,,0
+2003-01.csv,2003-01,6,Amazing Spider-Man,49,2.25,Marvel,97033,J. Michael Straczynski,,0
+2003-02.csv,2003-02,3,Amazing Spider-Man,50,2.25,Marvel,114430,J. Michael Straczynski,,0
+2003-03.csv,2003-03,5,Amazing Spider-Man,51,2.25,Marvel,95277,J. Michael Straczynski,,0
+2003-04.csv,2003-04,4,Amazing Spider-Man,52,2.25,Marvel,96894,J. Michael Straczynski,,0
+2003-05.csv,2003-05,7,Amazing Spider-Man,53,2.25,Marvel,95144,J. Michael Straczynski,,0
+2003-07.csv,2003-07,8,Amazing Spider-Man,55,2.25,Marvel,95074,J. Michael Straczynski,,0
+2003-07.csv,2003-07,9,Amazing Spider-Man,54,2.25,Marvel,94782,J. Michael Straczynski,,0
+2003-08.csv,2003-08,9,Amazing Spider-Man,57,2.25,Marvel,94685,J. Michael Straczynski,,0
+2003-08.csv,2003-08,10,Amazing Spider-Man,56,2.25,Marvel,93478,J. Michael Straczynski,,0
+2003-09.csv,2003-09,12,Amazing Spider-Man,58,2.25,Marvel,92826,J. Michael Straczynski,,0
+2003-10.csv,2003-10,2,Amazing Spider-Man,500,3.5,Marvel,148939,J. Michael Straczynski,,0
+2003-11.csv,2003-11,9,Amazing Spider-Man,501,2.25,Marvel,94393,J. Michael Straczynski,,0
+2003-12.csv,2003-12,12,Amazing Spider-Man,502,2.25,Marvel,90461,J. Michael Straczynski,,0
+2004-01.csv,2004-01,12,Amazing Spider-Man,503,2.25,Marvel,87366,J. Michael Straczynski,,0
+2004-02.csv,2004-02,11,Amazing Spider-Man,504,2.25,Marvel,84041,J. Michael Straczynski,,0
+2004-03.csv,2004-03,11,Amazing Spider-Man,505,2.25,Marvel,83612,J. Michael Straczynski,,0
+2004-04.csv,2004-04,15,Amazing Spider-Man,506,2.25,Marvel,83156,J. Michael Straczynski,,0
+2004-05.csv,2004-05,12,Amazing Spider-Man,507,2.25,Marvel,81905,J. Michael Straczynski,,0
+2004-06.csv,2004-06,13,Amazing Spider-Man,509,2.25,Marvel,88293,J. Michael Straczynski,,1
+2004-06.csv,2004-06,16,Amazing Spider-Man,508,2.25,Marvel,82271,J. Michael Straczynski,,1
+2004-07.csv,2004-07,11,Amazing Spider-Man,510,2.25,Marvel,84755,J. Michael Straczynski,,1
+2004-08.csv,2004-08,13,Amazing Spider-Man,511,2.25,Marvel,88120,J. Michael Straczynski,,1
+2004-09.csv,2004-09,14,Amazing Spider-Man,512,2.25,Marvel,87231,J. Michael Straczynski,,1
+2004-10.csv,2004-10,11,Amazing Spider-Man,513,2.25,Marvel,89530,J. Michael Straczynski,,1
+2004-11.csv,2004-11,15,Amazing Spider-Man,514,2.25,Marvel,87118,J. Michael Straczynski,,1
+2004-12.csv,2004-12,12,Amazing Spider-Man,515,2.25,Marvel,82843,J. Michael Straczynski,,0
+2005-01.csv,2005-01,9,Amazing Spider-Man,516,2.25,Marvel,79682,J. Michael Straczynski,,0
+2005-02.csv,2005-02,15,Amazing Spider-Man,517,2.25,Marvel,78620,J. Michael Straczynski,,0
+2005-03.csv,2005-03,22,Amazing Spider-Man,518,2.25,Marvel,76929,J. Michael Straczynski,,0
+2005-04.csv,2005-04,14,Amazing Spider-Man,519,2.25,Marvel,78521,J. Michael Straczynski,,0
+2005-05.csv,2005-05,14,Amazing Spider-Man,520,2.25,Marvel,76130,J. Michael Straczynski,,0
+2005-06.csv,2005-06,19,Amazing Spider-Man,521,2.5,Marvel,74104,J. Michael Straczynski,,0
+2005-07.csv,2005-07,21,Amazing Spider-Man,522,2.5,Marvel,73139,J. Michael Straczynski,,0
+2005-08.csv,2005-08,21,Amazing Spider-Man,523,2.5,Marvel,72041,J. Michael Straczynski,,0
+2005-09.csv,2005-09,25,Amazing Spider-Man,524,2.5,Marvel,71057,J. Michael Straczynski,,0
+2005-10.csv,2005-10,9,Amazing Spider-Man,525,2.5,Marvel,79469,J. Michael Straczynski,,0
+2005-11.csv,2005-11,12,Amazing Spider-Man,526,2.5,Marvel,79672,J. Michael Straczynski,,0
+2005-12.csv,2005-12,10,Amazing Spider-Man,527,2.5,Marvel,79262,J. Michael Straczynski,,0
+2006-01.csv,2006-01,4,Amazing Spider-Man,528,2.5,Marvel,95383,J. Michael Straczynski,,0
+2006-01.csv,2006-01,146,Amazing Spider-Man,527,2.5,Marvel,10657,J. Michael Straczynski,,0
+2006-02.csv,2006-02,6,Amazing Spider-Man,529,2.5,Marvel,90381,J. Michael Straczynski,,0
+2006-03.csv,2006-03,7,Amazing Spider-Man,530,2.5,Marvel,89863,J. Michael Straczynski,,0
+2006-04.csv,2006-04,8,Amazing Spider-Man,531,2.99,Marvel,86885,J. Michael Straczynski,,0
+2006-05.csv,2006-05,14,Amazing Spider-Man,532,2.99,Marvel,95508,J. Michael Straczynski,,0
+2006-06.csv,2006-06,10,Amazing Spider-Man,533,2.99,Marvel,112987,J. Michael Straczynski,,0
+2006-07.csv,2006-07,6,Amazing Spider-Man,534,2.99,Marvel,113507,J. Michael Straczynski,,0
+2006-09.csv,2006-09,4,Amazing Spider-Man,535,2.99,Marvel,117044,J. Michael Straczynski,,0
+2006-11.csv,2006-11,4,Amazing Spider-Man,536,2.99,Marvel,118824,J. Michael Straczynski,,0
+2007-01.csv,2007-01,4,Amazing Spider-Man,537,2.99,Marvel,114796,J. Michael Straczynski,,0
+2007-02.csv,2007-02,3,Amazing Spider-Man,538,2.99,Marvel,142930,J. Michael Straczynski,,0
+2007-03.csv,2007-03,3,Amazing Spider-Man,539,2.99,Marvel,137723,J. Michael Straczynski,,0
+2007-05.csv,2007-05,7,Amazing Spider-Man,540,2.99,Marvel,119624,J. Michael Straczynski,,1
+2007-06.csv,2007-06,8,Amazing Spider-Man,541,2.99,Marvel,108217,J. Michael Straczynski,,1
+2007-07.csv,2007-07,10,Amazing Spider-Man,542,2.99,Marvel,105678,J. Michael Straczynski,,1
+2007-08.csv,2007-08,7,Amazing Spider-Man,543,2.99,Marvel,106478,J. Michael Straczynski,,1
+2007-09.csv,2007-09,2,Amazing Spider-Man,544,3.99,Marvel,146170,J. Michael Straczynski,,0
+2007-12.csv,2007-12,2,Amazing Spider-Man,545,3.99,Marvel,124406,J. Michael Straczynski,,0
+2008-01.csv,2008-01,2,Amazing Spider-Man,546,3.99,Marvel,127856,Dan Slott,,0
+2008-01.csv,2008-01,9,Amazing Spider-Man,547,2.99,Marvel,101132,Dan Slott,,0
+2008-01.csv,2008-01,10,Amazing Spider-Man,548,2.99,Marvel,97881,Dan Slott,,0
+2008-02.csv,2008-02,3,Amazing Spider-Man,549,2.99,Marvel,101048,Marc Guggenheim,,0
+2008-02.csv,2008-02,9,Amazing Spider-Man,550,2.99,Marvel,90817,Marc Guggenheim,,0
+2008-02.csv,2008-02,13,Amazing Spider-Man,551,2.99,Marvel,88029,Marc Guggenheim,,0
+2008-03.csv,2008-03,4,Amazing Spider-Man,552,2.99,Marvel,89808,Bob Gale,,0
+2008-03.csv,2008-03,8,Amazing Spider-Man,553,2.99,Marvel,82624,Bob Gale,,0
+2008-03.csv,2008-03,14,Amazing Spider-Man,554,2.99,Marvel,81048,Bob Gale,,0
+2008-04.csv,2008-04,8,Amazing Spider-Man,555,2.99,Marvel,86885,Zeb Wells,,0
+2008-04.csv,2008-04,14,Amazing Spider-Man,556,2.99,Marvel,78442,Zeb Wells,,0
+2008-04.csv,2008-04,16,Amazing Spider-Man,557,2.99,Marvel,77041,Zeb Wells,,0
+2008-05.csv,2008-05,20,Amazing Spider-Man,558,2.99,Marvel,76944,Bob Gale,,0
+2008-05.csv,2008-05,21,Amazing Spider-Man,559,2.99,Marvel,74184,Dan Slott,,0
+2008-05.csv,2008-05,23,Amazing Spider-Man,560,2.99,Marvel,73991,Dan Slott,,0
+2008-06.csv,2008-06,17,Amazing Spider-Man,561,2.99,Marvel,72345,Dan Slott,,0
+2008-06.csv,2008-06,19,Amazing Spider-Man,562,2.99,Marvel,71382,Bob Gale,,0
+2008-06.csv,2008-06,20,Amazing Spider-Man,563,2.99,Marvel,70766,Bob Gale,,0
+2008-07.csv,2008-07,20,Amazing Spider-Man,565,2.99,Marvel,69168,Marc Guggenheim,,0
+2008-07.csv,2008-07,21,Amazing Spider-Man,566,2.99,Marvel,68898,Marc Guggenheim,,0
+2008-07.csv,2008-07,22,Amazing Spider-Man,564,2.99,Marvel,68868,Marc Guggenheim,,0
+2008-08.csv,2008-08,7,Amazing Spider-Man,568,3.99,Marvel,93346,Dan Slott,,0
+2008-08.csv,2008-08,14,Amazing Spider-Man,569,2.99,Marvel,77909,Dan Slott,,0
+2008-08.csv,2008-08,21,Amazing Spider-Man,567,2.99,Marvel,68094,Marc Guggenheim,,0
+2008-09.csv,2008-09,10,Amazing Spider-Man,570,2.99,Marvel,82456,Dan Slott,,0
+2008-09.csv,2008-09,13,Amazing Spider-Man,572,2.99,Marvel,75142,Dan Slott,,0
+2008-09.csv,2008-09,14,Amazing Spider-Man,571,2.99,Marvel,73661,Dan Slott,,0
+2008-10.csv,2008-10,8,Amazing Spider-Man,573,3.99,Marvel,82540,Dan Slott,,0
+2008-10.csv,2008-10,17,Amazing Spider-Man,574,2.99,Marvel,69060,Marc Guggenheim,,0
+2008-10.csv,2008-10,18,Amazing Spider-Man,575,2.99,Marvel,68904,Joe Kelly,,0
+2008-11.csv,2008-11,6,Amazing Spider-Man,577,3.99,Marvel,76610,Zeb Wells,,0
+2008-11.csv,2008-11,12,Amazing Spider-Man,576,2.99,Marvel,68943,Joe Kelly,,0
+2008-11.csv,2008-11,13,Amazing Spider-Man,578,2.99,Marvel,66551,Mark Waid,,0
+2008-12.csv,2008-12,19,Amazing Spider-Man,579,2.99,Marvel,69774,Mark Waid,,0
+2008-12.csv,2008-12,21,Amazing Spider-Man,581,2.99,Marvel,68896,Dan Slott,,0
+2008-12.csv,2008-12,27,Amazing Spider-Man,580,2.99,Marvel,62970,Roger Stern,,0
+2009-01.csv,2009-01,1,Amazing Spider-Man,583,3.99,Marvel,352847,Mark Waid,,0
+2009-01.csv,2009-01,12,Amazing Spider-Man,584,2.99,Marvel,63735,Marc Guggenheim,,0
+2009-01.csv,2009-01,15,Amazing Spider-Man,582,2.99,Marvel,59914,Dan Slott,,0
+2009-02.csv,2009-02,16,Amazing Spider-Man,585,2.99,Marvel,60275,Marc Guggenheim,,0
+2009-02.csv,2009-02,17,Amazing Spider-Man,587,2.99,Marvel,60107,Marc Guggenheim,,0
+2009-02.csv,2009-02,18,Amazing Spider-Man,586,2.99,Marvel,59510,Marc Guggenheim,,0
+2009-03.csv,2009-03,12,Amazing Spider-Man,588,3.99,Marvel,61325,Marc Guggenheim,,0
+2009-03.csv,2009-03,13,Amazing Spider-Man,589,2.99,Marvel,58823,Fred Van Lente,,0
+2009-04.csv,2009-04,17,Amazing Spider-Man,590,2.99,Marvel,66410,Dan Slott,,0
+2009-04.csv,2009-04,19,Amazing Spider-Man,592,2.99,Marvel,65935,Mark Waid,,0
+2009-04.csv,2009-04,24,Amazing Spider-Man,591,2.99,Marvel,60503,Dan Slott,,0
+2009-05.csv,2009-05,9,Amazing Spider-Man,595,2.99,Marvel,71837,Joe Kelly,,0
+2009-05.csv,2009-05,15,Amazing Spider-Man,594,2.99,Marvel,58464,Mark Waid,,0
+2009-05.csv,2009-05,16,Amazing Spider-Man,593,2.99,Marvel,58363,Mark Waid,,0
+2009-06.csv,2009-06,21,Amazing Spider-Man,596,2.99,Marvel,63500,Joe Kelly,,0
+2009-06.csv,2009-06,23,Amazing Spider-Man,597,2.99,Marvel,61622,Joe Kelly,,0
+2009-06.csv,2009-06,24,Amazing Spider-Man,598,2.99,Marvel,61561,Joe Kelly,,0
+2009-07.csv,2009-07,4,Amazing Spider-Man,600,4.99,Marvel,116779,Dan Slott,,0
+2009-07.csv,2009-07,19,Amazing Spider-Man,599,2.99,Marvel,72364,Joe Kelly,,0
+2009-08.csv,2009-08,17,Amazing Spider-Man,601,2.99,Marvel,74201,Mark Waid,,0
+2009-08.csv,2009-08,19,Amazing Spider-Man,602,2.99,Marvel,71457,Fred Van Lente,,0
+2009-08.csv,2009-08,21,Amazing Spider-Man,603,2.99,Marvel,70976,Fred Van Lente,,0
+2009-09.csv,2009-09,14,Amazing Spider-Man,606,2.99,Marvel,70118,Joe Kelly,,0
+2009-09.csv,2009-09,18,Amazing Spider-Man,604,2.99,Marvel,63382,Fred Van Lente,,0
+2009-09.csv,2009-09,19,Amazing Spider-Man,605,3.99,Marvel,62778,Brian Reed,,0
+2009-09.csv,2009-09,20,Amazing Spider-Man,607,2.99,Marvel,62517,Joe Kellu,,0
+2009-10.csv,2009-10,10,Amazing Spider-Man,608,2.99,Marvel,71992,Marc Guggenheim,,0
+2009-10.csv,2009-10,16,Amazing Spider-Man,609,2.99,Marvel,61139,Marc Guggenheim,,0
+2009-11.csv,2009-11,13,Amazing Spider-Man,612,3.99,Marvel,68427,Mark Waid,,0
+2009-11.csv,2009-11,14,Amazing Spider-Man,613,2.99,Marvel,64669,Mark Waid,,0
+2009-11.csv,2009-11,15,Amazing Spider-Man,611,2.99,Marvel,64484,Joe Kelly,,0
+2009-11.csv,2009-11,17,Amazing Spider-Man,610,2.99,Marvel,61142,Marc Guggenheim,,0
+2009-12.csv,2009-12,16,Amazing Spider-Man,615,2.99,Marvel,63738,Fred Van Lente,,0
+2009-12.csv,2009-12,22,Amazing Spider-Man,614,2.99,Marvel,59696,Mark Waid,,0
+2009-12.csv,2009-12,23,Amazing Spider-Man,616,2.99,Marvel,58856,Fred Van Lente,,0
+2010-01.csv,2010-01,6,Amazing Spider-Man,617,3.99,Marvel,76730,Joe Kelly,,0
+2010-01.csv,2010-01,14,Amazing Spider-Man,618,2.99,Marvel,61969,Dan Slott,,0
+2010-01.csv,2010-01,17,Amazing Spider-Man,619,2.99,Marvel,56837,Dan Slott,,0
+2010-02.csv,2010-02,15,Amazing Spider-Man,620,2.99,Marvel,59860,Dan Slott,,0
+2010-02.csv,2010-02,19,Amazing Spider-Man,621,2.99,Marvel,55350,Dan Slott,,0
+2010-02.csv,2010-02,22,Amazing Spider-Man,622,3.99,Marvel,53929,Fred Van Lente,,0
+2010-03.csv,2010-03,10,Amazing Spider-Man,623,2.99,Marvel,66062,Mark Waid,,0
+2010-03.csv,2010-03,14,Amazing Spider-Man,624,2.99,Marvel,60215,Mark Waid,,0
+2010-03.csv,2010-03,18,Amazing Spider-Man,627,2.99,Marvel,54203,Roger Stern,,0
+2010-03.csv,2010-03,19,Amazing Spider-Man,625,2.99,Marvel,54179,Joe Kelly,,0
+2010-03.csv,2010-03,21,Amazing Spider-Man,626,2.99,Marvel,53867,Fred Van Lente,,0
+2010-04.csv,2010-04,17,Amazing Spider-Man,628,3.99,Marvel,57797,Roger Stern,,0
+2010-04.csv,2010-04,19,Amazing Spider-Man,629,2.99,Marvel,53560,Roger Stern,,0
+2010-05.csv,2010-05,21,Amazing Spider-Man,630,2.99,Marvel,57969,Zeb Wells,,0
+2010-05.csv,2010-05,22,Amazing Spider-Man,631,2.99,Marvel,57239,Zeb Wells,,0
+2010-05.csv,2010-05,23,Amazing Spider-Man,632,2.99,Marvel,56723,Zeb Wells,,0
+2010-06.csv,2010-06,16,Amazing Spider-Man,634,3.99,Marvel,61736,J.M. DeMatteis,,0
+2010-06.csv,2010-06,17,Amazing Spider-Man,633,2.99,Marvel,57670,Zeb Wells,,0
+2010-06.csv,2010-06,21,Amazing Spider-Man,635,3.99,Marvel,56146,Joe Kelly,,0
+2010-07.csv,2010-07,11,Amazing Spider-Man,638,3.99,Marvel,68271,Joe Quesada,,0
+2010-07.csv,2010-07,19,Amazing Spider-Man,637,3.99,Marvel,56031,Joe Kelly,,0
+2010-07.csv,2010-07,20,Amazing Spider-Man,636,3.99,Marvel,56011,Joe Kelly,,0
+2010-08.csv,2010-08,6,Amazing Spider-Man,640,3.99,Marvel,73656,Joe Quesada,,0
+2010-08.csv,2010-08,12,Amazing Spider-Man,639,3.99,Marvel,67086,Joe Quesada,,0
+2010-09.csv,2010-09,10,Amazing Spider-Man,641,3.99,Marvel,68345,Joe Quesada,,0
+2010-09.csv,2010-09,15,Amazing Spider-Man,643,2.99,Marvel,61855,Mark Waid,,0
+2010-09.csv,2010-09,16,Amazing Spider-Man,642,2.99,Marvel,60115,Mark Waid,,0
+2010-09.csv,2010-09,17,Amazing Spider-Man,644,2.99,Marvel,58310,Mark Waid,,0
+2010-10.csv,2010-10,16,Amazing Spider-Man,646,2.99,Marvel,58125,Mark Waid,,0
+2010-10.csv,2010-10,18,Amazing Spider-Man,645,2.99,Marvel,56709,Mark Waid,,0
+2010-11.csv,2010-11,8,Amazing Spider-Man,648,3.99,Marvel,77033,Dan Slott,8.9,0
+2010-11.csv,2010-11,19,Amazing Spider-Man,647,4.99,Marvel,55819,Fred Van Lente,,0
+2010-11.csv,2010-11,20,Amazing Spider-Man,649,3.99,Marvel,52586,Dan Slott,8.7,0
+2010-12.csv,2010-12,13,Amazing Spider-Man,650,3.99,Marvel,55996,Dan Slott,8.2,0
+2011-01.csv,2011-01,10,Amazing Spider-Man,651,3.99,Marvel,56749,Dan Slott,8,0
+2011-01.csv,2011-01,14,Amazing Spider-Man,652,3.99,Marvel,52050,Dan Slott,7.8,0
+2011-02.csv,2011-02,12,Amazing Spider-Man,654,3.99,Marvel,53882,Dan Slott,8.3,0
+2011-02.csv,2011-02,14,Amazing Spider-Man,655,3.99,Marvel,53366,Dan Slott,9.4,0
+2011-02.csv,2011-02,15,Amazing Spider-Man,653,3.99,Marvel,53103,Dan Slott,7.2,0
+2011-03.csv,2011-03,15,Amazing Spider-Man,656,3.99,Marvel,59626,Dan Slott,7.5,0
+2011-03.csv,2011-03,17,Amazing Spider-Man,657,3.99,Marvel,58704,Dan Slott,8.4,0
+2011-04.csv,2011-04,10,Amazing Spider-Man,658,3.99,Marvel,61687,Dan Slott,6.8,0
+2011-04.csv,2011-04,15,Amazing Spider-Man,659,3.99,Marvel,58258,Dan Slott,8.1,0
+2011-05.csv,2011-05,10,Amazing Spider-Man,661,3.99,Marvel,59087,Dan Slott,7.4,0
+2011-05.csv,2011-05,11,Amazing Spider-Man,660,3.99,Marvel,58249,Dan Slott,6.4,0
+2011-05.csv,2011-05,13,Amazing Spider-Man,662,3.99,Marvel,55883,Dan Slott,6.5,0
+2011-06.csv,2011-06,7,Amazing Spider-Man,663,3.99,Marvel,57040,Dan Slott,8,0
+2011-06.csv,2011-06,10,Amazing Spider-Man,664,3.99,Marvel,54808,Dan Slott,8.3,0
+2011-07.csv,2011-07,1,Amazing Spider-Man,666,3.99,Marvel,135568,Dan Slott,8.1,0
+2011-07.csv,2011-07,16,Amazing Spider-Man,665,3.99,Marvel,56948,Dan Slott,7.7,0
+2011-08.csv,2011-08,6,Amazing Spider-Man,667,3.99,Marvel,71235,Dan Slott,7.7,0
+2011-08.csv,2011-08,9,Amazing Spider-Man,668,3.99,Marvel,57533,Dan Slott,8,0
+2011-09.csv,2011-09,18,Amazing Spider-Man,669,3.99,Marvel,71944,Dan Slott,7.4,0
+2011-09.csv,2011-09,27,Amazing Spider-Man,670,3.99,Marvel,57599,Dan Slott,7.6,0
+2011-10.csv,2011-10,25,Amazing Spider-Man,671,3.99,Marvel,59426,Dan Slott,6.9,0
+2011-10.csv,2011-10,28,Amazing Spider-Man,672,3.99,Marvel,57860,Dan Slott,8,0
+2011-11.csv,2011-11,27,Amazing Spider-Man,674,3.99,Marvel,57723,Dan Slott,7.7,0
+2011-11.csv,2011-11,29,Amazing Spider-Man,673,3.99,Marvel,57159,Dan Slott,8.9,0
+2011-12.csv,2011-12,20,Amazing Spider-Man,675,3.99,Marvel,54652,Dan Slott,8,0
+2011-12.csv,2011-12,22,Amazing Spider-Man,676,3.99,Marvel,54001,Dan Slott,7.3,0
+2012-01.csv,2012-01,17,Amazing Spider-Man,677,3.99,Marvel,57186,Dan Slott,8.2,0
+2012-01.csv,2012-01,20,Amazing Spider-Man,678,3.99,Marvel,54252,Dan Slott,8.4,0
+2012-02.csv,2012-02,20,Amazing Spider-Man,679,3.99,Marvel,52564,Dan Slott,7.6,0
+2012-02.csv,2012-02,22,Amazing Spider-Man,680,3.99,Marvel,51872,Dan Slott,8.1,0
+2012-03.csv,2012-03,15,Amazing Spider-Man,682,3.99,Marvel,57143,Dan Slott,8,0
+2012-03.csv,2012-03,22,Amazing Spider-Man,681,3.99,Marvel,52143,Dan Slott,7.1,0
+2012-04.csv,2012-04,18,Amazing Spider-Man,683,3.99,Marvel,59153,Dan Slott,8.2,0
+2012-04.csv,2012-04,19,Amazing Spider-Man,684,3.99,Marvel,57454,Dan Slott,8.2,0
+2012-05.csv,2012-05,25,Amazing Spider-Man,686,3.99,Marvel,58337,Dan Slott,8.1,0
+2012-05.csv,2012-05,26,Amazing Spider-Man,685,3.99,Marvel,58121,Dan Slott,8.1,0
+2012-06.csv,2012-06,25,Amazing Spider-Man,687,3.99,Marvel,62680,Dan Slott,7.9,0
+2012-06.csv,2012-06,27,Amazing Spider-Man,688,3.99,Marvel,59493,Dan Slott,8.2,0
+2012-07.csv,2012-07,24,Amazing Spider-Man,689,3.99,Marvel,59859,Dan Slott,7.6,1
+2012-07.csv,2012-07,25,Amazing Spider-Man,690,3.99,Marvel,58976,Dan Slott,7.3,1
+2012-08.csv,2012-08,5,Amazing Spider-Man,692,5.99,Marvel,91071,Dan Slott,7.8,1
+2012-08.csv,2012-08,21,Amazing Spider-Man,691,3.99,Marvel,60767,Dan Slott,7.6,1
+2012-09.csv,2012-09,14,Amazing Spider-Man,693,3.99,Marvel,59772,Dan Slott,7,1
+2012-09.csv,2012-09,16,Amazing Spider-Man,694,3.99,Marvel,58461,Dan Slott,6.7,1
+2012-10.csv,2012-10,23,Amazing Spider-Man,695,3.99,Marvel,58185,Dan Slott,8.2,1
+2012-10.csv,2012-10,24,Amazing Spider-Man,696,3.99,Marvel,57950,Dan Slott,7.6,1
+2012-11.csv,2012-11,13,Amazing Spider-Man,698,3.99,Marvel,81342,Dan Slott,8.2,0
+2012-11.csv,2012-11,29,Amazing Spider-Man,697,3.99,Marvel,59872,Dan Slott,7.7,0
+2012-12.csv,2012-12,1,Amazing Spider-Man,700,7.99,Marvel,200966,Dan Slott,7.5,0
+2012-12.csv,2012-12,14,Amazing Spider-Man,699,3.99,Marvel,74904,Dan Slott,8.2,0
+2013-01.csv,2013-01,1,Superior Spider-Man,1,3.99,Marvel,188182,Dan Slott,7.9,0
+2013-01.csv,2013-01,5,Superior Spider-Man,2,3.99,Marvel,112546,Dan Slott,7.7,0
+2013-02.csv,2013-02,5,Superior Spider-Man,3,3.99,Marvel,101811,Dan Slott,8.1,0
+2013-02.csv,2013-02,6,Superior Spider-Man,4,3.99,Marvel,95892,Dan Slott,7.9,0
+2013-03.csv,2013-03,8,Superior Spider-Man,5,3.99,Marvel,94224,Dan Slott,8.2,0
+2013-03.csv,2013-03,11,Superior Spider-Man,6,3.99,Marvel,86614,Dan Slott,8,0
+2013-04.csv,2013-04,11,Superior Spider-Man,7,3.99,Marvel,87945,Dan Slott,7.5,0
+2013-04.csv,2013-04,12,Superior Spider-Man,8,3.99,Marvel,85671,Dan Slott,7.8,0
+2013-05.csv,2013-05,6,Superior Spider-Man,9,3.99,Marvel,93656,Dan Slott,8,0
+2013-05.csv,2013-05,7,Superior Spider-Man,10,3.99,Marvel,85346,Dan Slott,7.9,0
+2013-06.csv,2013-06,7,Superior Spider-Man,11,3.99,Marvel,84219,Dan Slott,8,0
+2013-06.csv,2013-06,8,Superior Spider-Man,12,3.99,Marvel,82338,Dan Slott,8.2,0
+2013-07.csv,2013-07,8,Superior Spider-Man,13,3.99,Marvel,81678,Dan Slott,7.8,0
+2013-07.csv,2013-07,9,Superior Spider-Man,14,3.99,Marvel,80839,Dan Slott,8.5,0
+2013-08.csv,2013-08,7,Superior Spider-Man,15,3.99,Marvel,78636,Dan Slott,7.8,0
+2013-08.csv,2013-08,8,Superior Spider-Man,16,3.99,Marvel,78087,Dan Slott,7.4,0
+2013-09.csv,2013-09,11,Superior Spider-Man,17,3.99,Marvel,89118,Dan Slott,8.1,0
+2013-09.csv,2013-09,13,Superior Spider-Man,18,3.99,Marvel,80178,Dan Slott,8.1,0
+2013-10.csv,2013-10,9,Superior Spider-Man,20,3.99,Marvel,85309,Dan Slott,7.5,0
+2013-10.csv,2013-10,10,Superior Spider-Man,19,3.99,Marvel,83671,Dan Slott,8.2,0
+2013-11.csv,2013-11,8,Superior Spider-Man,22,3.99,Marvel,81250,Dan Slott,7.8,0
+2013-11.csv,2013-11,10,Superior Spider-Man,21,3.99,Marvel,74940,Dan Slott,8.2,0
+2013-12.csv,2013-12,10,Superior Spider-Man,23,3.99,Marvel,77105,Dan Slott,7.5,0
+2013-12.csv,2013-12,11,Superior Spider-Man,24,3.99,Marvel,76131,Dan Slott,8.1,0
+2014-01.csv,2014-01,5,Superior Spider-Man,25,4.99,Marvel,77311,Dan Slott,8.3,0
+2014-01.csv,2014-01,7,Superior Spider-Man,26,3.99,Marvel,72591,Dan Slott,7.2,0
+2014-02.csv,2014-02,4,Superior Spider-Man,27,3.99,Marvel,86405,Dan Slott,8,0
+2014-02.csv,2014-02,6,Superior Spider-Man,28,3.99,Marvel,75477,Dan Slott,8.1,0
+2014-03.csv,2014-03,5,Superior Spider-Man,29,3.99,Marvel,76568,Dan Slott,7.7,0
+2014-03.csv,2014-03,7,Superior Spider-Man,30,3.99,Marvel,75431,Dan Slott,8.7,0
+2014-04.csv,2014-04,1,Amazing Spider-Man,1,5.99,Marvel,532586,Dan Slott,7.9,0
+2014-04.csv,2014-04,2,Superior Spider-Man,31,5.99,Marvel,135484,Dan Slott,7.9,0
+2014-05.csv,2014-05,2,Amazing Spider-Man,2,3.99,Marvel,123945,Dan Slott,7.7,1
+2014-06.csv,2014-06,2,Amazing Spider-Man,3,3.99,Marvel,109029,Dan Slott,7.4,1
+2014-07.csv,2014-07,3,Amazing Spider-Man,4,3.99,Marvel,117917,Dan Slott,7.6,1
+2014-08.csv,2014-08,2,Amazing Spider-Man,5,3.99,Marvel,101655,Dan Slott,7.6,1
+2014-08.csv,2014-08,5,Superior Spider-Man,32,4.99,Marvel,87604,Dan Slott,8.1,1
+2014-09.csv,2014-09,5,Amazing Spider-Man,6,3.99,Marvel,93564,Dan Slott,7.3,0
+2014-09.csv,2014-09,12,Superior Spider-Man,33,4.99,Marvel,72894,Dan Slott,8.3,0
+2014-10.csv,2014-10,7,Amazing Spider-Man,7,3.99,Marvel,116051,Dan Slott,8,0
+2014-10.csv,2014-10,8,Amazing Spider-Man,8,3.99,Marvel,99549,Dan Slott,8,0
+2014-11.csv,2014-11,1,Amazing Spider-Man,9,4.99,Marvel,135280,Dan Slott,8.3,0
+2014-11.csv,2014-11,4,Amazing Spider-Man,10,3.99,Marvel,100899,Dan Slott,7.6,0
+2014-12.csv,2014-12,2,Amazing Spider-Man,11,3.99,Marvel,104739,Dan Slott,8.2,0
+2015-01.csv,2015-01,3,Amazing Spider-Man,12,3.99,Marvel,105458,Dan Slott,7.9,0
+2015-01.csv,2015-01,4,Amazing Spider-Man,13,3.99,Marvel,103093,Dan Slott,7.6,0
+2015-02.csv,2015-02,6,Amazing Spider-Man,14,3.99,Marvel,106778,Dan Slott,7.4,0
+2015-02.csv,2015-02,8,Amazing Spider-Man,15,3.99,Marvel,99660,Dan Slott,7,0
+2015-03.csv,2015-03,6,Amazing Spider-Man,16,3.99,Marvel,92289,Dan Slott,6.3,0
+2015-04.csv,2015-04,12,Amazing Spider-Man,17,3.99,Marvel,99964,Dan Slott,6.8,0
+2015-05.csv,2015-05,14,Amazing Spider-Man,18,3.99,Marvel,88338,Dan Slott,6.3,0
+2015-10.csv,2015-10,2,Amazing Spider-Man,1,5.99,Marvel,245873,Dan Slott,8.2,0
+2015-10.csv,2015-10,10,Amazing Spider-Man,2,3.99,Marvel,111322,Dan Slott,8.4,0
+2015-11.csv,2015-11,14,Amazing Spider-Man,3,3.99,Marvel,93848,Dan Slott,7.8,0
+2015-12.csv,2015-12,13,Amazing Spider-Man,4,3.99,Marvel,82066,Dan Slott,7.8,0
+2015-12.csv,2015-12,17,Amazing Spider-Man,5,3.99,Marvel,79122,Dan Slott,6.7,0
+2016-01.csv,2016-01,11,Amazing Spider-Man,6,3.99,Marvel,76517,Dan Slott,7.7,0
+2016-02.csv,2016-02,9,Amazing Spider-Man,7,3.99,Marvel,75357,Dan Slott,7.9,0
+2016-02.csv,2016-02,11,Amazing Spider-Man,8,3.99,Marvel,71599,Dan Slott,7.4,0
+2016-03.csv,2016-03,5,Amazing Spider-Man,9,3.99,Marvel,88164,Dan Slott,7.8,0
+2016-04.csv,2016-04,10,Amazing Spider-Man,10,3.99,Marvel,73643,Dan Slott,7.6,0
+2016-04.csv,2016-04,12,Amazing Spider-Man,11,3.99,Marvel,67446,Dan Slott,8.1,0
+2016-05.csv,2016-05,10,Amazing Spider-Man,12,3.99,Marvel,74963,Dan Slott,6.2,0
+2016-06.csv,2016-06,38,Amazing Spider-Man,14,3.99,Marvel,65646,Dan Slott,7,0
+2016-06.csv,2016-06,39,Amazing Spider-Man,13,3.99,Marvel,65519,Dan Slott,6.2,0
+2016-07.csv,2016-07,25,Amazing Spider-Man,15,3.99,Marvel,87994,Dan Slott,7.5,0
+2016-08.csv,2016-08,4,Amazing Spider-Man,16,3.99,Marvel,185342,Dan Slott,7.5,0
+2016-08.csv,2016-08,32,Amazing Spider-Man,17,3.99,Marvel,74869,Dan Slott,7.8,0
+2016-09.csv,2016-09,24,Amazing Spider-Man,18,3.99,Marvel,71159,Dan Slott,7.5,0
+2016-10.csv,2016-10,24,Amazing Spider-Man,19,4.99,Marvel,73215,Dan Slott,9,0
+2016-10.csv,2016-10,29,Amazing Spider-Man,20,3.99,Marvel,67530,Dan Slott,7.4,0
+2016-11.csv,2016-11,23,Amazing Spider-Man,21,3.99,Marvel,63052,Dan Slott,7.2,0
+2016-12.csv,2016-12,22,Amazing Spider-Man,22,3.99,Marvel,63359,Dan Slott,7.6,0
+2017-01.csv,2017-01,9,Amazing Spider-Man,23,3.99,Marvel,73773,Dan Slott,7.3,0
+2017-02.csv,2017-02,13,Amazing Spider-Man,24,3.99,Marvel,61953,Dan Slott,6.7,0
+2017-03.csv,2017-03,1,Amazing Spider-Man,25,9.99,Marvel,113934,Dan Slott,7.7,0
+2017-04.csv,2017-04,15,Amazing Spider-Man,26,3.99,Marvel,62515,Dan Slott,7.1,0
+2017-05.csv,2017-05,27,Amazing Spider-Man,27,3.99,Marvel,51404,Dan Slott,7.8,0
+2017-06.csv,2017-06,15,Amazing Spider-Man,29,3.99,Marvel,59464,Dan Slott,7.3,0
+2017-06.csv,2017-06,26,Amazing Spider-Man,28,3.99,Marvel,50925,Dan Slott,8.3,0
+2017-07.csv,2017-07,14,Amazing Spider-Man,30,3.99,Marvel,56560,Dan Slott,6.9,1
+2017-08.csv,2017-08,18,Amazing Spider-Man,31,3.99,Marvel,54102,Dan Slott,7.8,1
+2017-09.csv,2017-09,17,Amazing Spider-Man,32,3.99,Marvel,58885,Dan Slott,8.1,1
+2017-10.csv,2017-10,3,Amazing Spider-Man,789,3.99,Marvel,110349,Dan Slott,7.8,1
+2017-10.csv,2017-10,33,Amazing Spider-Man,790,3.99,Marvel,52833,Dan Slott,8,1
+2017-11.csv,2017-11,31,Amazing Spider-Man,791,3.99,Marvel,50358,Dan Slott,8.2,1
+2017-12.csv,2017-12,10,Amazing Spider-Man,792,3.99,Marvel,61994,Dan Slott,6.4,0
+2017-12.csv,2017-12,13,Amazing Spider-Man,793,3.99,Marvel,53260,Dan Slott,7.1,0
+2018-01.csv,2018-01,16,Amazing Spider-Man,794,3.99,Marvel,51412,Dan Slott,7.6,0
+2018-02.csv,2018-02,10,Amazing Spider-Man,796,3.99,Marvel,55138,Dan Slott,6.3,0
+2018-02.csv,2018-02,12,Amazing Spider-Man,795,3.99,Marvel,52844,Dan Slott,6.6,0
+2018-03.csv,2018-03,3,Amazing Spider-Man,797,3.99,Marvel,128189,Dan Slott,7.9,0
+2018-04.csv,2018-04,2,Amazing Spider-Man,798,3.99,Marvel,233235,Dan Slott,8.4,0
+2018-04.csv,2018-04,3,Amazing Spider-Man,799,3.99,Marvel,192609,Dan Slott,7.4,0
+2018-05.csv,2018-05,1,Amazing Spider-Man,800,9.99,Marvel,411480,Dan Slott,8.1,0
+2018-06.csv,2018-06,4,Amazing Spider-Man,801,3.99,Marvel,122256,Dan Slott,9.1,0
+2018-07.csv,2018-07,2,Amazing Spider-Man,1,5.99,Marvel,289102,Nick Spencer,8.1,0
+2018-07.csv,2018-07,7,Amazing Spider-Man,2,3.99,Marvel,113944,Nick Spencer,8.1,0
+2018-08.csv,2018-08,5,Amazing Spider-Man,3,3.99,Marvel,86259,Nick Spencer,7.7,0
+2018-08.csv,2018-08,7,Amazing Spider-Man,4,3.99,Marvel,81630,Nick Spencer,7.4,0
+2018-09.csv,2018-09,9,Amazing Spider-Man,6,3.99,Marvel,84376,Nick Spencer,7.9,0
+2018-09.csv,2018-09,10,Amazing Spider-Man,5,3.99,Marvel,82934,Nick Spencer,7.5,0
+2018-10.csv,2018-10,9,Amazing Spider-Man,7,3.99,Marvel,83013,Nick Spencer,8.6,1
+2018-10.csv,2018-10,10,Amazing Spider-Man,8,3.99,Marvel,82833,Nick Spencer,8.1,1
+2018-11.csv,2018-11,4,Amazing Spider-Man,10,3.99,Marvel,103636,Nick Spencer,8.3,1
+2018-11.csv,2018-11,7,Amazing Spider-Man,9,3.99,Marvel,85534,Nick Spencer,7.9,1
+2018-12.csv,2018-12,6,Amazing Spider-Man,11,3.99,Marvel,79799,Nick Spencer,8.2,1
+2018-12.csv,2018-12,8,Amazing Spider-Man,12,3.99,Marvel,75155,Nick Spencer,6.7,1
+2019-01.csv,2019-01,5,Amazing Spider-Man,14,3.99,Marvel,91697,Nick Spencer,7.3,1
+2019-01.csv,2019-01,13,Amazing Spider-Man,13,3.99,Marvel,66396,Nick Spencer,7.3,1
+2019-02.csv,2019-02,6,Amazing Spider-Man,15,3.99,Marvel,71407,Nick Spencer,6.9,0
+2019-02.csv,2019-02,11,Amazing Spider-Man,16,4.99,Marvel,64197,Nick Spencer,7.1,0
+2019-03.csv,2019-03,7,Amazing Spider-Man,17,4.99,Marvel,78464,Nick Spencer,8.4,0
+2019-03.csv,2019-03,8,Amazing Spider-Man,18,3.99,Marvel,74466,Nick Spencer,6.8,0
+2019-04.csv,2019-04,10,Amazing Spider-Man,20,3.99,Marvel,76903,Nick Spencer,8,0
+2019-04.csv,2019-04,11,Amazing Spider-Man,19,3.99,Marvel,74018,Nick Spencer,7.9,0
+2019-05.csv,2019-05,6,Amazing Spider-Man,21,3.99,Marvel,92538,Nick Spencer,8,0
+2019-05.csv,2019-05,10,Amazing Spider-Man,22,3.99,Marvel,78102,Nick Spencer,7.6,0
+2019-06.csv,2019-06,6,Amazing Spider-Man,24,3.99,Marvel,89641,Nick Spencer,8.1,0
+2019-06.csv,2019-06,12,Amazing Spider-Man,23,3.99,Marvel,74070,Nick Spencer,7.3,0
+2019-07.csv,2019-07,3,Amazing Spider-Man,25,7.99,Marvel,113272,Nick Spencer,7.5,1
+2019-07.csv,2019-07,18,Amazing Spider-Man,26,3.99,Marvel,59646,Nick Spencer,7.1,1
+2019-08.csv,2019-08,12,Amazing Spider-Man,28,3.99,Marvel,66851,Nick Spencer,6.6,1
+2019-08.csv,2019-08,15,Amazing Spider-Man,27,3.99,Marvel,63440,Nick Spencer,7.2,1
+2019-09.csv,2019-09,12,Amazing Spider-Man,30,3.99,Marvel,80157,Nick Spencer,8.2,1
+2019-09.csv,2019-09,17,Amazing Spider-Man,29,3.99,Marvel,65046,Nick Spencer,8.3,1
+2019-10.csv,2019-10,14,Amazing Spider-Man,31,3.99,Marvel,75152,Nick Spencer,8.4,1
+2019-10.csv,2019-10,15,Amazing Spider-Man,32,3.99,Marvel,71173,Nick Spencer,8.3,1
+2019-11.csv,2019-11,7,Amazing Spider-Man,33,3.99,Marvel,77581,Nick Spencer,7.3,0
+2019-11.csv,2019-11,10,Amazing Spider-Man,34,3.99,Marvel,67914,Nick Spencer,7.4,0
+2019-12.csv,2019-12,9,Amazing Spider-Man,35,3.99,Marvel,67111,Nick Spencer,6.7,0
+2019-12.csv,2019-12,11,Amazing Spider-Man,36,3.99,Marvel,63742,Nick Spencer,7,0
